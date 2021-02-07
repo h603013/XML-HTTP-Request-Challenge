@@ -1,0 +1,28 @@
+{
+    "current": {
+    "temp": 30.81,
+    "weather": "Snow"
+    },
+    "daily": [
+        { 
+            "temp": 31.98,
+            "weather": "Snow"
+        },
+        { 
+            "temp": 32,
+            "weather": "Snow"
+        },
+        { 
+            "temp": 34,
+            "weather": "Clear"
+        },
+        { 
+            "temp": 37.65,
+            "weather": "Rain"
+        },
+        { 
+            "temp": 38,
+            "weather": "Overcast"
+        }
+    ]
+}
